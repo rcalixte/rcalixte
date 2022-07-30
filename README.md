@@ -1,5 +1,5 @@
 <h1 align="center">
-  <samp>Hi there, 👋🏼! Welcome to my GitHub profile!</samp>
+  <samp>Hi there! 👋🏼 Welcome to my GitHub profile!</samp>
 </h1>
 
 ## ⚡️ About me:
