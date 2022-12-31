@@ -2,10 +2,13 @@
   <samp>Hi there! 👋🏼 Welcome to my GitHub profile!</samp>
 </h1>
 
+<img align="right" alt="tux flag gif" src="https://user-images.githubusercontent.com/10281587/210153411-6c8472de-5860-4462-b3a1-e0aabd58877f.gif" />
+
 ## ⚡️ About me:
 * 🐧 Linux infrastructure engineer
 * 📖 Open source enthusiast
 * 💻 Coding pragmatist
+* 🤓 Passionate problem solver
 * 🌱 Growth mindset champion
 <br /><br />
 ---
