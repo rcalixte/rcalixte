@@ -23,4 +23,7 @@
   <a href="https://lnkd.in/rcalixte">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://matrix.to/#/@rcalixte:matrix.org" style="margin-left: 25px;">
+    <img alt="Matrix" src="https://img.shields.io/badge/matrix-%23000000.svg?style=for-the-badge&logo=matrix&logoColor=white" />
+  </a>
 </div>
