@@ -5,11 +5,13 @@
 <img align="right" alt="tux flag gif" src="https://user-images.githubusercontent.com/10281587/210153411-6c8472de-5860-4462-b3a1-e0aabd58877f.gif" />
 
 ### ⚡️ About me:
+
 * 🐧 Linux infrastructure & site reliability engineer
 * 📖 Open source enthusiast
-* 💻 Coding pragmatist
+* 💻 Coding & general pragmatist
 * 🤓 Passionate problem solver
 * 🌱 Growth mindset champion
+
 <br /><br />
 ---
 <div align="center">
@@ -25,8 +27,5 @@
   </a>
   <a href="https://lnkd.in/rcalixte">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://matrix.to/#/@rcalixte:matrix.org" style="margin-left: 25px;">
-    <img alt="Matrix" src="https://img.shields.io/badge/matrix-%23000000.svg?style=for-the-badge&logo=matrix&logoColor=white" />
   </a>
 </div>
