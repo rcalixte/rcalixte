@@ -8,7 +8,7 @@
 
 * 🐧 Linux infrastructure & site reliability engineer
 * 📖 Open source enthusiast
-* 💻 Coding & general pragmatist
+* 💻 Programming & general pragmatist
 * 🤓 Passionate problem solver
 * 🌱 Growth mindset champion
 
