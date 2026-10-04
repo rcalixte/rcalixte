@@ -26,6 +26,41 @@
 
 &nbsp;
 ---
+### Featured Repositories
+<div align="center">
+  <a href="https://github.com/rcalixte/libqt6c-demo">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=rcalixte&repo=libqt6c-demo&theme=github_dark">
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=rcalixte&repo=libqt6c-demo">
+      <img alt="Qt 6 demo for C">
+    </picture>
+  </a>
+  <a href="https://github.com/rcalixte/libqt6zig-demo">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=rcalixte&repo=libqt6zig-demo&theme=github_dark">
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=rcalixte&repo=libqt6zig-demo">
+      <img alt="Qt 6 demo for Zig">
+    </picture>
+  </a>
+  <br>
+  <a href="https://github.com/rcalixte/libqt6c-examples">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=rcalixte&repo=libqt6c-examples&theme=github_dark">
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=rcalixte&repo=libqt6c-examples">
+      <img alt="Qt 6 examples for C">
+    </picture>
+  </a>
+  <a href="https://github.com/rcalixte/libqt6zig-examples">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=rcalixte&repo=libqt6zig-examples&theme=github_dark">
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=rcalixte&repo=libqt6zig-examples">
+      <img alt="Qt 6 examples for Zig">
+    </picture>
+  </a>
+</div>
+
+&nbsp;
+---
 ### Featured Gists
 <div align="center">
   <a href="https://gist.github.com/rcalixte/339ede66703a988760829ecde2dc2c88">
